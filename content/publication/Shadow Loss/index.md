@@ -1,13 +1,12 @@
 ---
-title: "Predicting Life Satisfaction"
+title: "Shadow Loss in Siamese Networks"
 authors:
 - admin
 - Mohammad Junayed Hasan
 - Humayra Anjum
 - Nabeel Mohammed
-- Sifat Momen
 author_notes:
-date: "2023-10-01T00:00:00Z"
+date: "2023-10-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +18,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal*"
+publication: "*(Submitted for Publication)*"
 publication_short: ""
 
 abstract: 
@@ -34,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '#'
-url_code: '#'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

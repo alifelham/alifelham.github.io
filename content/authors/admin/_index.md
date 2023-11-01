@@ -8,12 +8,12 @@ last_name: Khan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
-role: alif DOT 
+
 # Role/position/tagline
 role: Research Assistant
 
@@ -49,9 +49,10 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -75,11 +76,11 @@ social:
   #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'alif DOT khan1 AT northsouth DOT edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alif Elham Khan is a research assistant at the Electrical and Computer Engineering department of North South University. His research is broadly focused on Machine Learning, Computer Vision & NLP. He also enjoys designing and developing softwares.
+Alif Elham Khan is a research assistant at the Electrical and Computer Engineering department of North South University. His research is broadly focused on Machine Learning, Computer Vision, NLP & Quantum Computing. He also enjoys designing and developing softwares for clients. 
 {style="text-align: justify;"}

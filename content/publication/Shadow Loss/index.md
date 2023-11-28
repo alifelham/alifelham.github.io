@@ -7,7 +7,7 @@ authors:
 - Nabeel Mohammed
 author_notes:
 date: "2023-10-02T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2311.14012"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*(Submitted for Publication)*"
 publication_short: ""
 
-abstract: 
+abstract:  
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2311.14012'
 url_code: ''
 url_dataset: ''
 url_poster: ''

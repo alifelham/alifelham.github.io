@@ -59,9 +59,9 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=CKHsL_4AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/alifelham
@@ -82,5 +82,5 @@ email: 'alif DOT khan1 AT northsouth DOT edu'
 highlight_name: true
 ---
 
-Alif Elham Khan is a research assistant at the Electrical and Computer Engineering department of North South University. His research is broadly focused on Machine Learning, Computer Vision, NLP & Quantum Computing. He also enjoys designing and developing softwares for clients. 
+Alif Elham Khan is a research assistant at the Electrical and Computer Engineering department of North South University. His research is broadly focused on optimizing complex Quantum and Machine Learning algorithms. He has developed optimizations in Computer Vision, NLP & Quantum Computing. Alif Elham Khan teaches and advises research students at the country's first [Quantum research academy](https://sites.google.com/view/mahdyresearchacademy/home?authuser=0). He also enjoys designing and developing tailored softwares for clients in [Fiverr](https://www.fiverr.com/alifelham). 
 {style="text-align: justify;"}

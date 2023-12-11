@@ -82,5 +82,8 @@ email: 'alif DOT khan1 AT northsouth DOT edu'
 highlight_name: true
 ---
 
-Alif Elham Khan is a research assistant at the Electrical and Computer Engineering department of North South University. His research is broadly focused on optimizing complex Quantum and Machine Learning algorithms. He has developed optimizations in Computer Vision, NLP & Quantum Computing. Alif Elham Khan teaches and advises research students at the country's first [Quantum research academy](https://sites.google.com/view/mahdyresearchacademy/home?authuser=0). He also enjoys designing and developing tailored softwares for clients in [Fiverr](https://www.fiverr.com/alifelham). 
+Alif Elham Khan is a research assistant at the Department of Electrical and Computer Engineering at [North South University](http://www.northsouth.edu/). His research is broadly focused on optimizing complex Quantum and Machine Learning algorithms. He has developed optimizations in Computer Vision, NLP, and Quantum Computing. Alif Elham Khan teaches and advises research students at Bangladesh’s first [Quantum Research Academy](https://sites.google.com/view/mahdyresearchacademy/home?authuser=0). He also enjoys designing and developing tailored software for clients on [Fiverr](https://www.fiverr.com/alifelham).  
+    
+Email: alif DOT khan1 AT northsouth DOT edu
+
 {style="text-align: justify;"}

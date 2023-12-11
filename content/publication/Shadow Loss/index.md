@@ -22,6 +22,7 @@ publication: "*(Submitted for Publication)*"
 publication_short: ""
 
 abstract:  
+"Despite significant recent advances in similarity detection tasks, existing approaches pose substantial challenges under memory constraints. One of the primary reasons for this is the use of computationally expensive metric learning loss functions such as Triplet Loss in Siamese networks. In this paper, we present a novel loss function called Shadow Loss that compresses the dimensions of an embedding space during loss calculation without loss of performance. The distance between the projections of the embeddings is learned from inputs on a compact projection space where distances directly correspond to a measure of class similarity. Projecting on a lower-dimension projection space, our loss function converges faster, and the resulting classified image clusters have higher inter-class and smaller intra-class distances. Shadow Loss not only reduces embedding dimensions favoring memory constraint devices but also consistently performs better than the state-of-the-art Triplet Margin Loss by an accuracy of 5%-10% across diverse datasets. The proposed loss function is also model agnostic, upholding its performance across several tested models. Its effectiveness and robustness across balanced, imbalanced, medical, and non-medical image datasets suggests that it is not specific to a particular model or dataset but demonstrates superior performance consistently while using less memory and computation."
 
 # Summary. An optional shortened abstract.
 summary: 

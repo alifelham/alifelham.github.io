@@ -1,6 +1,6 @@
 ---
 title: Disability Care
-summary: A web application to connect disabled people with hospitals, doctors, pharmacies and diagnostic centers.
+summary: A `web application` to connect disabled people with hospitals, doctors, pharmacies and diagnostic centers.
 tags:
   - Software 
   - AI

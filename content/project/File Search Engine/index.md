@@ -17,8 +17,8 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: '#'
-url_pdf: ''
+url_code: 'https://github.com/alifelham/File-Search-Engine-App/tree/master'
+url_pdf: 'https://github.com/alifelham/File-Search-Engine-App/tree/master/SRS'
 url_slides: ''
 url_video: ''
 
@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-Many big data companies depend on data that is scraped from the internet. They heavily depend on web crawlers. Often their job gets messy when they are trying to fetch files like pdfs, documents or texts. So I developed a search engine that can be used by any data driven company/ user for easily fetching desired documents. It is as easy as putting a URL in the search bar and choosing what files to get, and viola they will have all links leading to such files crawled and indexed for them. Users can use this intuitive search engine not only to easily fetch such files, but also to create and clusters/ collections according to their preferences.
+"File Search Engine App" is a new, self-contained product designed with the aim of making web searching easier, more efficient, and organized. As of the current release, it is a self-sustaining product without any subsystem or integrable part. The product is for any individual or group looking to search data from the web precisely and effectively. Using it will enable users to make clusters of URLs and search for specific content in their cluster. Users can download, store, and use the contents easily and efficiently. Especially for regular users, fast scraping of data using web crawlers is of great importance. With the aim of making it easier for them, the product is developed.

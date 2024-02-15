@@ -15,7 +15,7 @@ superuser: true
 
 
 # Role/position/tagline
-role: Research Assistant
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -82,7 +82,7 @@ email: 'alif DOT khan1 AT northsouth DOT edu'
 highlight_name: true
 ---
 
-Alif Elham Khan is a research assistant at the Department of Electrical and Computer Engineering at [North South University](http://www.northsouth.edu/). His research is broadly focused on optimizing complex Quantum and Machine Learning algorithms. He has developed optimizations in Computer Vision, NLP, and Quantum Computing. Alif Elham Khan teaches and advises research students at Bangladesh’s first [Quantum Research Academy](https://sites.google.com/view/mahdyresearchacademy/home?authuser=0). He also enjoys designing and developing tailored software for clients on [Fiverr](https://www.fiverr.com/alifelham).  
+Hi, I am a Research Scientist at Mahdy Research Academy, Bangladesh’s first [Quantum Research Facility](https://sites.google.com/view/mahdyresearchacademy/home?authuser=0). At MRA, I supervise 22 research groups on Machine Learning, Computer vision, Medical Image Analaysis and Quantum Machine Learning research. I also enjoy teaching classical and quantum machine learning to a vibrant class of 300 students. My research is broadly focused on optimizing complex Quantum and Machine Learning algorithms. I also work as a Software/ Machine Learning Engineer at [Fiverr](https://www.fiverr.com/alifelham). You can learn more about my seven-year-long industrial experience from my [LinkedIn](https://www.linkedin.com/in/alif-elham/). Please feel free to reach out to me on LinkedIn or via email. Have a great day! 
     
 Email: alif DOT khan1 AT northsouth DOT edu
 

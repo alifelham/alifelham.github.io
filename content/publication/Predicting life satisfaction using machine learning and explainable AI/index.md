@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*(Submitted for Publication)*"
+publication: "*(Under Review by Heliyon)*"
 publication_short: ""
 
 abstract: "Life satisfaction is a crucial facet of human well-being. Hence, research on life satisfaction is

@@ -15,11 +15,11 @@ superuser: true
 
 
 # Role/position/tagline
-role: Research Scientist
+role: AI Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: North South University
+  - name: Optimizely
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -82,7 +82,13 @@ email: 'alif DOT khan1 AT northsouth DOT edu'
 highlight_name: true
 ---
 
-Hi, I am a Research Scientist at Mahdy Research Academy, Bangladesh’s first [Quantum Research Facility](https://sites.google.com/view/mahdyresearchacademy/home?authuser=0). At MRA, I supervise 22 research groups on Machine Learning, Computer vision, Medical Image Analaysis and Quantum Machine Learning research. I also enjoy teaching classical and quantum machine learning to a vibrant class of 300 students. My research is broadly focused on optimizing complex Quantum and Machine Learning algorithms. I also work as a Software/ Machine Learning Engineer at [Fiverr](https://www.fiverr.com/alifelham). You can learn more about my seven-year-long industrial experience from my [LinkedIn](https://www.linkedin.com/in/alif-elham/). Please feel free to reach out to me on LinkedIn or via email. Have a great day! 
+Alif Elham Khan is an AI Engineer currently associated with [Optimizely](https://www.optimizely.com/company/press/dxp-mq-2025/#:~:text=NEW%20YORK%2C%20January%2030%2C%202025,for%20the%20sixth%20consecutive%20year*.), a leading digital experience platform. He earned his degree from North South University, where he was affiliated with the Department of Electrical and Computer Engineering. He gratuated as the valedictorian of his class. 
+
+In his professional journey, Alif has showcased his expertise as a machine learning engineer and data scientist. He holds an IBM Data Science Professional Certificate and has successfully collaborated on large-scale projects, emphasizing his proficiency in the field.
+
+Alif's [research](https://scholar.google.com/citations?user=CKHsL_4AAAAJ&hl=en) endeavors include a notable study titled "Predicting life satisfaction using machine learning and explainable AI," published in the journal Heliyon. This research demonstrates the potential of machine learning algorithms to predict life satisfaction with high accuracy, underscoring his commitment to leveraging AI for societal well-being.
+
+You can connect with him on [LinkedIn](https://www.linkedin.com/in/alif-elham/) for possible collaborations. 
     
 Email: alif DOT khan1 AT northsouth DOT edu
 
